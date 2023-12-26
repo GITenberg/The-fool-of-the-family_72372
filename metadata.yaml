@@ -1,0 +1,30 @@
+_repo: The-fool-of-the-family_72372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemyng, Bracebridge
+    alias: Bracebridge, Samuel
+    birthdate: 1841
+    deathdate: 1901
+    gutenberg_agent_id: '2425'
+    url: http://www.gutenberg.org/2009/agents/2425
+description: ''
+gutenberg_issued: '2023-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72372'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:675828
+pgterms:marc905: 20230218150212hemyng
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bStreet & Smith, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The fool of the family
+url: http://www.gutenberg.org/ebooks/72372
